@@ -28,7 +28,7 @@ else
 echo "installinf mysql....SUCCESS"
 fi
 
-dnf install nodesjs -y
+dnf install nodejs -y
 
 if [ $? -ne 0 ]; then
 echo "installing nodejs... Failure"
