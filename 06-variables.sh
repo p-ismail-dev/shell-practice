@@ -2,7 +2,7 @@
 
 START_TIME=$(date+ %s)
 
-echo("script excecuted time::$START_TIME")
+echo "script excecuted time::$START_TIME"
 
 sleep 10
 
