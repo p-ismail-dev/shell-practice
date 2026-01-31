@@ -17,4 +17,4 @@ echo "installing nginx.... Failure"
 exit1
 else
 echo "installinf nginx....SUCCESS"
-if
+fi
