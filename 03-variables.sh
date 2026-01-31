@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=Trump#no space between the value and =
+PERSON1=Trump #no space between the value and =
 PERSON2=putin
 
  echo "$PERSON1 ::Hi, how are you?"
